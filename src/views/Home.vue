@@ -145,7 +145,7 @@
 
 			<h5 class="mtop-md">Have feedback or suggestions?</h5>
 			<p class="small">
-				Send me an email at <a href="mailto:hello@hotdi.sh" target="_blank" class="ul">hello@hotdi.sh</a>, or bug me on Twitter <a href="https://twitter.com/sleumasm" target="_blank" class="ul">@sleumasm</a>.
+				Send me an email at <a href="mailto:uvacoder@proton.me" target="_blank" class="ul">uvacoder@proton.me</a>, or bug me on Twitter <a href="https://twitter.com/VaLandscapes" target="_blank" class="ul">@VaLandscapes</a>.
 				<br/>
 				<small>Or simply create an issue on the <a href="https://github.com/mitchas/keyframes" target="_blank" class="ul">GitHub Repo</a> if you know what those words mean.</small>
 			</p>
